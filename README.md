@@ -12,7 +12,7 @@
 ## Example
 
 ![](./display/obj.png)
-Object with background
+
 
 ## Installation
 
