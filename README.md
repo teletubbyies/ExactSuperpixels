@@ -4,10 +4,13 @@
 
 ## Key Features
 
-- **Exact Superpixel Count**: Unlike standard SLIC implementations, ExactSuperpixels guarantees the exact number of superpixels requested.
+- **Exact Superpixel Count**: Unlike standard SLIC implementations, ExactSuperpixels guarantees **the exact number of superpixels requested**.
 - **Adaptive Segmentation**: Automatically adjusts the initial oversegmentation and merges regions to achieve the desired superpixel count.
 - **Robust Merging Strategy**: Employs a sophisticated method to merge smaller segments while maintaining image structure.
 - **Flexible Parameter Control**: Allows fine-tuning of compactness and smoothing parameters for optimal results.
+  
+## Example
+![Object with background](./display/obj.png)
 
 ## Installation
 
