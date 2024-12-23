@@ -1,7 +1,7 @@
 
 # ExactSuperpixels
 
-[中文版](README.zh-CN.md)
+[简体中文](README.zh-CN.md)
 ## Key Features
 
 - **Exact Superpixel Count**: Unlike standard SLIC implementations, ExactSuperpixels guarantees **the exact number of superpixels requested**.
