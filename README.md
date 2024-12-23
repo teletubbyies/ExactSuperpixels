@@ -45,7 +45,7 @@ segments = exact_num_superpixels(image, n_desired, compactness=10, sigma=0)
 # Now 'segments' contains the superpixel labels
 ```
 
-or You can download demo to custome. 
+or You can download demo to customize. 
 
 ## How It Works
 
