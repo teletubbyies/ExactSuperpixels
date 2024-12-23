@@ -10,7 +10,9 @@
 - **Flexible Parameter Control**: Allows fine-tuning of compactness and smoothing parameters for optimal results.
   
 ## Example
-![Object with background](./display/obj.png)
+
+![](./display/obj.png)
+Object with background
 
 ## Installation
 
