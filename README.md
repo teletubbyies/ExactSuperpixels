@@ -19,7 +19,7 @@
 
 ## Installation
 
-To use ExactSuperpixels, you'll need Python 3.6+ and the following dependencies:
+To use ExactSuperpixels, you'll need Python 3.8+ and the following dependencies:
 
 ```bash
 pip install numpy scikit-image matplotlib
