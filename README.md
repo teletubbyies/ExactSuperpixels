@@ -11,6 +11,8 @@
   
 ## Example
 
+
+![](./display/obj_w_mask.png)
 ![](./display/obj.png)
 
 
